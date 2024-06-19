@@ -10,4 +10,8 @@ pada soal ini anda diminta untuk membuat pola bangun datar dan disimpan kedalam 
 ## Soal2
 
 
-Perlu diperhatikan bahwa soal-soal ini akan dilakukan cek plagiasi, apabila anda terkena plagiasi maka nilai pada tugas anda akan 0.
+## Informasi:
+1. Bobot masing-masing soal adalah 5 point
+2. Jika source code berhasil dijalankan maka soal tersebut mendapat 3 point
+3. Jika soal disertakan pdf berupa pembahasan maka soal tersebut mendapat 2 point
+4. Perlu diperhatikan bahwa soal-soal ini akan dilakukan cek plagiasi, apabila anda terkena plagiasi maka nilai pada tugas anda akan 0.
