@@ -8,6 +8,14 @@ pada soal ini anda diminta untuk membuat pola bangun datar dan disimpan kedalam 
 
 
 ## Soal2
+#### Deskripsi
+Buatlah program yang dapat melakukan analisis terhadap email yang terdapat dalam file `mbox.txt`. Yang dicari adalah jumlah email yang dikirim setiap hari.
+
+#### Contoh Output
+
+#### Note
+- Pastikan bahwa file `mbox.txt` berada di direktori yang sama dengan script Python atau sesuaikan path-nya di dalam kode jika diperlukan.
+- Gunakan Regex.
 
 
 ## Informasi:
