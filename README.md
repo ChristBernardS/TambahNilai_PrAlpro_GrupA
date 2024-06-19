@@ -1,7 +1,7 @@
 # TambahNilai_PrAlpro_GrupA
 
 ## Soal 1
-pada soal ini anda diminta untuk membuat pola bangun datar dan disimpan kedalam sebuah file. Contoh hasilnya dapat anda lihat pada file "soal1.txt". 
+pada soal ini anda diminta untuk membuat pola bangun datar dan disimpan kedalam sebuah file. Contoh hasilnya dapat anda lihat pada file "soal1.txt". Hasil yang anda buat tidak harus sama dengan contoh "soal1.txt", silahkan membuat pola bangun datar apapun. Namun perlu diingat apabila terdeteksi adanya plagiasi maka anda akan mendapat nilai 0
 
 
 ![image](https://github.com/ChristBernardS/TambahNilai_PrAlpro_GrupA/assets/117885718/488ab7cd-c727-4167-a0d2-d87b9374fab0)
