@@ -13,6 +13,9 @@ Buatlah program yang dapat melakukan analisis terhadap email yang terdapat dalam
 
 #### Contoh Output
 
+![WhatsApp Image 2024-06-20 at 00 16 25_31105ebf](https://github.com/ChristBernardS/TambahNilai_PrAlpro_GrupA/assets/117885718/24677137-9120-44ce-b320-449f3348820f)
+
+
 #### Note
 - Pastikan bahwa file `mbox.txt` berada di direktori yang sama dengan script Python atau sesuaikan path-nya di dalam kode jika diperlukan.
 - Gunakan Regex.
